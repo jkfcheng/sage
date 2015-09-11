@@ -254,6 +254,7 @@ aside li {
 		float: left;
 		width: 22%;
 		margin: 2%;
+		min-width: 150px;
 }
 
 
